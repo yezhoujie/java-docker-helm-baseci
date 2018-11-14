@@ -27,3 +27,7 @@ jq | 用于json文件解析
 ```
 
 
+[javaDemo参考: https://github.com/yezhoujie/hello-world-ci-final](https://github.com/yezhoujie/hello-world-ci-final)
+
+[gitlab-runner 配置参考: https://github.com/yezhoujie/gitlab-runner-kubernetes](https://github.com/yezhoujie/gitlab-runner-kubernetes)
+
